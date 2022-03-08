@@ -1,0 +1,7 @@
+# create documents with no Ref
+Create(
+    Collection('villa'),
+    { data:{ id:'110', name:'villa-110', price:'490'} }
+)
+# 
+
